@@ -1,11 +1,7 @@
-# Python Number Guessing Game
+# PYTHON NUMBER GUESSING GAME
 
-A simple, interactive number guessing game built with Python. Test your luck and logical thinking by trying to guess the secret number selected by the computer!
-
-## About the Project
-
+## Description 
 The **Number Guessing Game** is a beginner-friendly Python project that demonstrates fundamental programming concepts, including random number generation, conditional statements, loops, and user input.
-
 The computer randomly selects a number, and the player attempts to guess it. After each guess, the game provides feedback to help the player figure out whether the secret number is higher or lower.
 
 ## Features
@@ -20,45 +16,22 @@ The computer randomly selects a number, and the player attempts to guess it. Aft
 ## Technologies Used
 
 - **Language:** Python 3
-- **Module:** `random`
+- **Module:** `random .
+- **code editor** 'pycharm.
 
-## Getting Started
+## How to run
 
-### Prerequisites
+ ## 1 Installation
+--install python 
 
-Make sure you have Python 3 installed on your computer.
-
-Check your Python version using:
-
-```bash
-python --version
-```
-
-### Installation
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/number-guessing-game.git
+2. Clone this repository:
+ --  git clone https://github.com/abdinasir703/PYTHON-NUMBER-GUESSING-GAME.git
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd number-guessing-game
-   ```
-
-3. Run the game:
-
-   ```bash
-   python main.py
-   ```
-
-   If your system uses `python3`, run:
-
-   ```bash
-   python3 main.py
-   ```
+3. open project folders:
+ --  cd number-guessing-game
+4. run the game
+--python number _guessing game.py
 
 ## How to Play
 
@@ -71,7 +44,6 @@ python --version
 
 ## Example Gameplay
 
-```text
 Welcome to the Number Guessing Game!
 I'm thinking of a number between 1 and 100.
 
@@ -83,7 +55,7 @@ Too low! Try again.
 
 Enter your guess: 37
 Congratulations! You guessed the correct number!
-```
+
 
 *Note: This example illustrates the gameplay. Actual results will vary because the secret number is generated randomly.*
 
@@ -106,19 +78,14 @@ This project helped me practise fundamental Python concepts, including:
 - [ ] Allow players to restart without rerunning the program.
 - [ ] Introduce a scoring system.
 
-## Contributing
-
-Contributions, suggestions, and constructive feedback are welcome!
-
-If you have an idea that could make this project better, feel free to fork the repository, experiment with the code, or submit a pull request. Every contribution is an opportunity to learn and improve together.
+## Project goals
+--This project was created to strengthen my python programming skills through practical application of programming concepts.
 
 ## Author
+**ASPIRING SOFTWARE ENGINEER = ABDI NASIR ADAM**
 
-**Akram**
-
-Aspiring Python developer passionate about learning, building projects, and improving my programming skills one project at a time.
-
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+## To check it out 
+- GitHub: [https://github.com/abdinasir703/PYTHON-NUMBER-GUESSING-GAME.git]
 
 ## A Message to the Community
 
@@ -132,11 +99,6 @@ Let's keep learning, coding, and growing together. Every expert was once a begin
 
 **Happy coding, everyone!**
 
-## License
 
-This project is open source. If you intend to reuse or distribute it, please add a `LICENSE` file specifying the permissions and conditions.
 
----
-
-Built with Python, curiosity, and a little bit of luck.
 
