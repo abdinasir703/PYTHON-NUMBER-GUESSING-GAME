@@ -1,2 +1,2 @@
 # PYTHON-NUMBER-GUESSING-GAME
-1% better everyday 
+it is a simple game
